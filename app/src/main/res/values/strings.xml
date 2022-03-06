@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="tvTitulo">Agenda</string>
+    <string name="txt_idAgenda">Código recordatorio</string>
+    <string name="txt_fecha">Fecha</string>
+    <string name="txt_asunto">Asunto</string>
+    <string name="txt_actividad">Actividad</string>
+    <string name="botonAgregar">Agregar</string>
+    <string name="botonConsultar">Consultar</string>
+
+</resources>
